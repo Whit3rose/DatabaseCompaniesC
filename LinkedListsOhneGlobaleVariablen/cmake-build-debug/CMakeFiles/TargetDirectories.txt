@@ -1,0 +1,3 @@
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/cmake-build-debug/CMakeFiles/LinkedListsOhneGlobaleVariablen.dir
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

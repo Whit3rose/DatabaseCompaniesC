@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/funktionen.c
+header.h
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/header.h
+
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/header.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/main.c
+header.h
+C:/Users/marti/OneDrive/Dokumente/Programmieren/LinkedListsOhneGlobaleVariablen/header.h
+
